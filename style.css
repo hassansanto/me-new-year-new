@@ -238,3 +238,17 @@
     font-weight: 600;
     font-size: 20px;
 }
+.Sponsor{
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    background-image: url(images/gradient2.png);
+    width: 1080px;
+    height: 300px;
+    border-radius: 8px;
+    margin: 124px 230px 0px 230px;
+    padding-top: 20px;
+
+    
+}
