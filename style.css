@@ -45,7 +45,7 @@
     border-radius: 5px;
 }
 
-/* style for sections in the main */
+
 .about-section {
     display: flex;
 }
@@ -59,7 +59,7 @@
     margin-bottom: 24px;
 }
 
-.img-section {
+.img-sec {
     width: 569px;
     height: 723.3px;
     margin: 130px 87px 130px 200px;
@@ -95,7 +95,7 @@
 
 }
 
-/* Section 2*/
+
 .my-plans {
     text-align: center;
 
@@ -138,7 +138,7 @@
 
 }
 
-/* Section 3 */
+
 .contact-section {
     background-image: url('images/gradient2.png'), url('images/watch.png');
     background-repeat: no-repeat;
@@ -171,7 +171,7 @@
     font-size: 20px;
 }
 
-/* footer */
+
 .footer {
     width: 1600px;
     height: 577px;
@@ -213,7 +213,7 @@
     margin: 128px 230px 244px 331px;
 }
 
-.rigth-head {
+.right-head {
     font-weight: 600;
     font-size: 25px;
     color: #FFFFFF;
